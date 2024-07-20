@@ -2,3 +2,7 @@ node_modules
 .idea
 .env
 coverage
+gcs.json
+public.pem
+private.pem
+.vscode
